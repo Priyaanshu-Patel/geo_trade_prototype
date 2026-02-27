@@ -192,7 +192,7 @@ Max 3 trades.
 Max 25% per asset.
 
 Return:
-{{ "actions": {{ "ASSET": {{ "action": "buy|sell|hold", "size": float }} }} }}
+{{ "actions": {{ "ASSET": {{ "action": "buy|sell|hold", "size": float }} }} }} 
 """
 
     try:
